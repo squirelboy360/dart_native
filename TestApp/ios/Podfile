@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '12.0'
+
+# Uncomment the next line if you're using Swift
+use_frameworks!
+
+workspace 'TestApp'
+project 'TestApp.xcodeproj'
+
+target 'TestApp' do
+  # No dependencies for now
+end

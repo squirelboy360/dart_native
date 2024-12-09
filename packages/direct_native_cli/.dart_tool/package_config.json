@@ -1,0 +1,71 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "args",
+      "rootUri": "file:///Users/tahiruagbanwa/.pub-cache/hosted/pub.dev/args-2.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "cli_util",
+      "rootUri": "file:///Users/tahiruagbanwa/.pub-cache/hosted/pub.dev/cli_util-0.3.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///Users/tahiruagbanwa/.pub-cache/hosted/pub.dev/collection-1.19.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///Users/tahiruagbanwa/.pub-cache/hosted/pub.dev/meta-1.16.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///Users/tahiruagbanwa/.pub-cache/hosted/pub.dev/path-1.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///Users/tahiruagbanwa/.pub-cache/hosted/pub.dev/source_span-1.10.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///Users/tahiruagbanwa/.pub-cache/hosted/pub.dev/string_scanner-1.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///Users/tahiruagbanwa/.pub-cache/hosted/pub.dev/term_glyph-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "yaml",
+      "rootUri": "file:///Users/tahiruagbanwa/.pub-cache/hosted/pub.dev/yaml-3.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "direct_native_cli",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    }
+  ],
+  "generated": "2024-12-09T02:53:54.721884Z",
+  "generator": "pub",
+  "generatorVersion": "3.5.4",
+  "flutterRoot": "file:///Users/tahiruagbanwa/development/flutter",
+  "flutterVersion": "3.24.5",
+  "pubCache": "file:///Users/tahiruagbanwa/.pub-cache"
+}
